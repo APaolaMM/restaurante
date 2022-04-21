@@ -1,0 +1,13 @@
+0.Bistecca alla Fiorentina(Italia)
+1.Hamburguesa con queso(Estados Unidos)
+2.Coq au vin(Francia)
+3.Macarrones(Italia)
+4.Zampone(Italia)
+5.Pâté Lorrain(Francia)
+6.Barbacoa o parrilla(Estados Unidos)
+7.Baeckeoffe(Francia)
+8.Pizza estilo Nueva York (No apta para celiacos (as))(Estados Unidos)
+Precios:
+Platillos Estado Unidenses: 10000
+Platillos Italianos: 20000
+Platillos Franceses: 30000
