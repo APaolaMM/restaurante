@@ -1,0 +1,11 @@
+0.Cosmopolitan (Estados Unidos)
+1.Chouchen (Francia)
+2.Manhattan (Estados Unidos)
+3.Vermouth (Italia)
+4.French 75 (Francia)
+5.Amaretto (Italia)
+Precios:
+Bebidas Estado Unidenses: 3000
+Bebidas Francesas: 6000
+Bebidas Italianas: 9000
+
